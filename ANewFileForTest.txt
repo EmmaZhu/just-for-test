@@ -1,1 +1,2 @@
 The first change on branchB.
+The first change on branchA.
